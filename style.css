@@ -1,0 +1,16 @@
+body{
+    background-color:9AD0C2;
+}
+h2{
+    color:265073 ;
+    text-align: center;
+}
+
+.name{
+    color: rgb(20, 16, 16);
+}
+.name:hover{
+    color: 416D19;
+    transition: 1s;
+}
+
